@@ -1,3 +1,7 @@
 # eugenden.github.io
-first_page
+
+## Заметки Python в ArcGIS
+[Использование окна "Field Calculator"](arcpy.field_calculator.md)
+
+## Прочие заметки
 [Заметки по английскому языку](rt.md)
