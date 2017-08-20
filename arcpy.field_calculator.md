@@ -34,3 +34,5 @@ lambda x: 1 if x > 0 else 0
 Чтобы прописать ячейкам определённое значение достаточно его присвоить.
 
 ![alt-текст](images/arcpy.field_calculator_3.JPG "arcpy.field_calculator_3")
+
+В данном примере проиллюстировано присвоение значения Null.
