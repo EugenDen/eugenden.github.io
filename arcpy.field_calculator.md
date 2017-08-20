@@ -29,3 +29,8 @@ def func(x):
 # 1 if !X! > 0 else 0
 lambda x: 1 if x > 0 else 0
 ```
+### Пример с обычным присвоением
+
+Чтобы прописать ячейкам определённое значение достаточно его присвоить.
+
+![alt-текст](images/arcpy.field_calculator_3.JPG "arcpy.field_calculator_3")
