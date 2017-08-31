@@ -56,6 +56,9 @@ lambda x: 1 if x > 0 else 0
 !SHAPE!.extent.YMin
 !SHAPE!.extent.XMax
 
+# Количество узлов-вертексов в геометрии
+!SHAPE!.pointcount
+
 # координата X для левой нижней точки экстента (в поле типа Double)
 !SHAPE!.extent.lowerLeft.X
 ```
