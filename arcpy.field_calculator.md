@@ -36,3 +36,27 @@ lambda x: 1 if x > 0 else 0
 ![alt-текст](images/arcpy.field_calculator_3.JPG "arcpy.field_calculator_3")
 
 В данном примере проиллюстировано присвоение значения Null.
+
+### Пример с извлечением геометрии
+
+Через окно "Field Calculator" есть простая возможность извлекать свойства геометрии объектов, такие как длина линий, координаты точки, площадь, экстент и др.
+
+```python
+# рассчитать площадь полигона (в поле типа Double)
+!SHAPE!.area
+
+# определние координаты X и Y для точки (в поле типа Double)
+!SHAPE!.X
+!SHAPE!.Y
+
+# извлечение свойств экстента объектов
+# экстремальные значения для экстента  (в поле типа Double)
+!SHAPE!.extent.XMin
+!SHAPE!.extent.XMax
+!SHAPE!.extent.YMin
+!SHAPE!.extent.XMax
+
+# координата X для левой нижней точки экстента (в поле типа Double)
+!SHAPE!.extent.lowerLeft.X
+```
+См. другие свойства геометрии объектов на официальном сайте ArcGIS https://pro.arcgis.com/ru/pro-app/arcpy/classes/extent.htm
