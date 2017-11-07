@@ -19,7 +19,7 @@
 В скрипте примере будем складывать 3 целых числа - 2 из конфигурационного
 файла и одно из входных параметров:
 
-```
+```python
 from json import load
 from arcpy import GetParametr, SetParameter
 
