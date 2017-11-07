@@ -4,7 +4,7 @@
 
 ### Пример с полной функцией
 
-![alt-текст](images/arcpy.field_calculator_1.JPG "arcpy.field_calculator_1")
+![alt-текст](images/field_calculator/arcpy.field_calculator_1.JPG "arcpy.field_calculator_1")
 
 В приведённом примере используется следующая функция:
 
@@ -23,7 +23,7 @@ def func(x):
 
 Если позволяет код, есть возможность отказываться от конструкции полноценной функций и использовать краткий синтаксис (т. н. lambda-функции).
 
-![alt-текст](images/arcpy.field_calculator_2.JPG "arcpy.field_calculator_2")
+![alt-текст](images/field_calculator/arcpy.field_calculator_2.JPG "arcpy.field_calculator_2")
 
 ```python
 # 1 if !X! > 0 else 0
@@ -33,7 +33,7 @@ lambda x: 1 if x > 0 else 0
 
 Чтобы прописать ячейкам определённое значение достаточно его присвоить.
 
-![alt-текст](images/arcpy.field_calculator_3.JPG "arcpy.field_calculator_3")
+![alt-текст](images/field_calculator/arcpy.field_calculator_3.JPG "arcpy.field_calculator_3")
 
 В данном примере проиллюстировано присвоение значения Null.
 
