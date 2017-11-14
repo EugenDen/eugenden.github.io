@@ -77,3 +77,6 @@ for s in reversed(e):
 # 4
 # 5
 ```
+При составлении использовались:
+
+* O'Reilly® Python Cookbook, 3rd Edition: Recipes for Mastering Python 3 (David Beazley, et al)
