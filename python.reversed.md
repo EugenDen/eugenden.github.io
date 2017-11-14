@@ -79,4 +79,4 @@ for s in reversed(e):
 ```
 При составлении использовались:
 
-* _O'Reilly® Python Cookbook, 3rd Edition: Recipes for Mastering Python 3 (David Beazley, et al)
+* _O'Reilly® Python Cookbook, 3rd Edition: Recipes for Mastering Python 3 (David Beazley, et al)_
