@@ -76,7 +76,7 @@ if __name__ == "__main__":
 
 ![alt-текст](images/json_config/config_json_11.PNG "config_json_11")
 
-Опубликуем sd на ArcGIS Server и зайдём в папку сервиса, чтобы увидеть конфигурационный файл. В моём случае путь - C:\arcgisserver\directories\arcgissystem\arcgisinput\TestTool.GPServer\extracted\cd.
+Опубликуем sd на ArcGIS Server и зайдём в папку сервиса, чтобы увидеть конфигурационный файл. В моём случае путь - C:\arcgisserver\directories\arcgissystem\arcgisinput\TestTool.GPServer\extracted\cd\test. Причём папка test была унаследована при публикации (в ней находился toolbox и config.json).
 
 ![alt-текст](images/json_config/config_json_10.PNG "config_json_10")
 
