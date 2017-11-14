@@ -1,7 +1,7 @@
 # eugenden.github.io
 
 ## Заметки Python
-[Итерирование в обратном порядке](python.reversed.md)]
+[Итерирование в обратном порядке](python.reversed.md)
 
 ## Заметки Python в ArcGIS
 [Использование окна "Field Calculator"](arcpy.field_calculator.md)
