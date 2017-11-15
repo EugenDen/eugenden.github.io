@@ -61,4 +61,4 @@ index = (row.FIRST_PRICE - row.SECOND_PRICE) * (row.INDEX_ZX + row.INDEX_QT) ** 
 
 При составлении использовались:
 
-* [https://arcpy.wordpress.com/2012/07/12/getting-arcpy-da-rows-back-as-dictionaries/]
+* https://arcpy.wordpress.com/2012/07/12/getting-arcpy-da-rows-back-as-dictionaries/
