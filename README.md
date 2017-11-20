@@ -10,5 +10,7 @@
 
 [Получение данных из курсора arcpy.da в виде словаря](arcpy.da_to_dict.md)
 
+[Получение токена для ArcGIS Server или Portal for ArcGIS](get_ags_token.md)
+
 ## Прочие заметки
 [Заметки по английскому языку](rt.md)
