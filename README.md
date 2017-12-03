@@ -16,5 +16,7 @@
 
 [Получение токена для ArcGIS Server или Portal for ArcGIS](get_ags_token.md)
 
+[Обработка esri JSON (в fc и обратно)](esri_json.md)
+
 ## Прочие заметки
 [Заметки по английскому языку](rt.md)
