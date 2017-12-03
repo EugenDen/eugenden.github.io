@@ -13,7 +13,7 @@ import json
 import ssl
 
 # portal
-# 'url_ = https://domen/arcgis/tokens/'
+# url_ = 'https://domen/arcgis/tokens/'
 url_ = 'https://domen/arcgis/sharing/generateToken'
 # server
 # url_ = 'https:/server:port/arcgis/admin/generateToken'
