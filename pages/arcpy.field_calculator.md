@@ -62,4 +62,4 @@ lambda x: 1 if x > 0 else 0
 # координата X для левой нижней точки экстента (в поле типа Double)
 !SHAPE!.extent.lowerLeft.X
 ```
-См. другие свойства геометрии объектов на официальном сайте ArcGIS https://pro.arcgis.com/ru/pro-app/arcpy/classes/extent.htm
+См. другие свойства геометрии объектов на официальном сайте ArcGIS [https://pro.arcgis.com/ru/pro-app/arcpy/classes/extent.htm](https://pro.arcgis.com/ru/pro-app/arcpy/classes/extent.htm)

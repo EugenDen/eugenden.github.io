@@ -2,8 +2,8 @@
 
 Адаптер должен быть распакован и файл Setup.exe доступен. Далее идём по справке:
 
-http://enterprise.arcgis.com/ru/web-adaptor/latest/install/iis/silently-install-arcgis-web-adaptor-portal.htm
-http://enterprise.arcgis.com/ru/web-adaptor/latest/install/iis/configure-arcgis-web-adaptor-portal.htm
+[http://enterprise.arcgis.com/ru/web-adaptor/latest/install/iis/silently-install-arcgis-web-adaptor-portal.htm](http://enterprise.arcgis.com/ru/web-adaptor/latest/install/iis/silently-install-arcgis-web-adaptor-portal.htm)
+[http://enterprise.arcgis.com/ru/web-adaptor/latest/install/iis/configure-arcgis-web-adaptor-portal.htm](http://enterprise.arcgis.com/ru/web-adaptor/latest/install/iis/configure-arcgis-web-adaptor-portal.htm)
 
 Выполняем следующие команды в powershell, которые установят и настроят веб-адаптер.
 
@@ -38,7 +38,7 @@ Start-Sleep -s 60
 
 Где {F53FEE2B-54DD-4A6F-8545-6865F4FBF6DC} код продукта в Windows. Справка предлагает набор идентификаторов для удаления:
 
-http://enterprise.arcgis.com/ru/web-adaptor/latest/install/iis/uninstall-arcgis-web-adaptor-portal.htm
+[http://enterprise.arcgis.com/ru/web-adaptor/latest/install/iis/uninstall-arcgis-web-adaptor-portal.htm](http://enterprise.arcgis.com/ru/web-adaptor/latest/install/iis/uninstall-arcgis-web-adaptor-portal.htm)
 
 Но можно определить коды установленных адаптеров командой (powershell):
 
