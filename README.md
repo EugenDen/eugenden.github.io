@@ -1,7 +1,7 @@
 # eugenden.github.io
 
 ### Заметки Python
-[Python.Итерирование в обратном порядке](pages/python.reversed.md)
+[Итерирование в обратном порядке](pages/python.reversed.md)
 
 [Округление числовых значений](pages/round.md)
 
