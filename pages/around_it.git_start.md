@@ -20,12 +20,16 @@ $web_client.DownloadFile($url,$output)
 
 Определимся с папкой, в которой будет размещаться репозиторий, перейдём в неё и склонируем репозиторий с github.
  
-![alt-текст](images/start_github/clone.PNG "clone")
+![alt-текст](../images/start_github/clone.PNG "clone")
 
 Далее перейдём в папку репозитория, проверим псевдонимы установленные по умолчанию.
 
-![alt-текст](images/start_github/remote.PNG "remote")
+![alt-текст](../images/start_github/remote.PNG "remote")
 
 Затем пройдём идентификацию, зафиксируем изменения (add), обзовём изменение (commit) и отправим на github (push). Консоль попросит ввести email/username и пароль.
 
-![alt-текст](images/start_github/add_push.PNG "add_push")
+![alt-текст](../images/start_github/add_push.PNG "add_push")
+
+Загрузим изменения, которые сделал другой пользователь (или сами же, но из веб-браузера)
+
+![alt-текст](../images/start_github/pull.PNG "pull")

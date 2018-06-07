@@ -48,49 +48,49 @@ if __name__ == "__main__":
 
 Создаём toolbox-инструмент, указываем параметры (входной long и выходной long).
 
-![alt-текст](images/json_config/config_json_2.PNG "config_json_2")
+![alt-текст](../images/json_config/config_json_2.PNG "config_json_2")
 
-![alt-текст](images/json_config/config_json_1.PNG "config_json_1")
+![alt-текст](../images/json_config/config_json_1.PNG "config_json_1")
 
 Создаём json-файл с переменными.
 
-![alt-текст](images/json_config/config_json_3.PNG "config_json_3")
+![alt-текст](../images/json_config/config_json_3.PNG "config_json_3")
 
 Запускаем инструмент в ArcMap.
 
-![alt-текст](images/json_config/config_json_4.PNG "config_json_4")
+![alt-текст](../images/json_config/config_json_4.PNG "config_json_4")
 
 Видим результат.
 
-![alt-текст](images/json_config/config_json_5.PNG "config_json_5")
+![alt-текст](../images/json_config/config_json_5.PNG "config_json_5")
 
 Создаём sd-файл созданной тестовой геообработки.
 
-![alt-текст](images/json_config/config_json_6.PNG "config_json_6")
+![alt-текст](../images/json_config/config_json_6.PNG "config_json_6")
 
-![alt-текст](images/json_config/config_json_7.PNG "config_json_7")
+![alt-текст](../images/json_config/config_json_7.PNG "config_json_7")
 
-![alt-текст](images/json_config/config_json_8.PNG "config_json_8")
+![alt-текст](../images/json_config/config_json_8.PNG "config_json_8")
 
-![alt-текст](images/json_config/config_json_9.PNG "config_json_9")
+![alt-текст](../images/json_config/config_json_9.PNG "config_json_9")
 
-![alt-текст](images/json_config/config_json_11.PNG "config_json_11")
+![alt-текст](../images/json_config/config_json_11.PNG "config_json_11")
 
 Опубликуем sd на ArcGIS Server и зайдём в папку сервиса, чтобы увидеть конфигурационный файл. В моём случае путь - C:\arcgisserver\directories\arcgissystem\arcgisinput\TestTool.GPServer\extracted\cd\test. Причём папка test была унаследована при публикации (в ней находился toolbox и config.json).
 
-![alt-текст](images/json_config/config_json_10.PNG "config_json_10")
+![alt-текст](../images/json_config/config_json_10.PNG "config_json_10")
 
-![alt-текст](images/json_config/config_json_12.PNG "config_json_12")
+![alt-текст](../images/json_config/config_json_12.PNG "config_json_12")
 
 Откроем его и поменяем значения.
 
-![alt-текст](images/json_config/config_json_13.PNG "config_json_13")
+![alt-текст](../images/json_config/config_json_13.PNG "config_json_13")
 
 Протестируем сервис в браузере.
 
-![alt-текст](images/json_config/config_json_14.PNG "config_json_14")
+![alt-текст](../images/json_config/config_json_14.PNG "config_json_14")
 
-![alt-текст](images/json_config/config_json_15.PNG "config_json_15")
+![alt-текст](../images/json_config/config_json_15.PNG "config_json_15")
 
 
 
