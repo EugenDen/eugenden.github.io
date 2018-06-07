@@ -18,15 +18,15 @@ Start-Sleep -s 180
 
 Опции ConfigureWebAdaptor можно посмотреть в консоли:
 
-![alt-текст](images/wa_iis/webadapter_config_options.PNG "webadapter_config_options")
+![alt-текст](../images/wa_iis/webadapter_config_options.PNG "webadapter_config_options")
 
 Сообщение о успешной установке:
 
-![alt-текст](images/wa_iis/webadapter_succes.PNG "webadapter_succes")
+![alt-текст](../images/wa_iis/webadapter_succes.PNG "webadapter_succes")
 
 Глянем в браузере:
 
-![alt-текст](./images/wa_iis/example_new_webadapter.PNG "example_new_webadapter")
+![alt-текст](../images/wa_iis/example_new_webadapter.PNG "example_new_webadapter")
 
 
 Чтобы удалить веб-адаптер необходимо выполнить следующую команду (powershell):
@@ -46,4 +46,4 @@ http://enterprise.arcgis.com/ru/web-adaptor/latest/install/iis/uninstall-arcgis-
 get-wmiobject -class Win32_Product | Where-Object -FilterScript {$_.Name -eq "ArcGIS 10.4.1 Web Adaptor (IIS)"}
 ```
 
-![alt-текст](images/wa_iis/search_id_webadapter.PNG "search_id_webadapter")
+![alt-текст](../images/wa_iis/search_id_webadapter.PNG "search_id_webadapter")
