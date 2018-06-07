@@ -26,7 +26,7 @@ Start-Sleep -s 180
 
 Глянем в браузере:
 
-![alt-текст](images/wa_iis/example_new_webadapter.PNG "example_new_webadapter")
+![alt-текст](./images/wa_iis/example_new_webadapter.PNG "example_new_webadapter")
 
 
 Чтобы удалить веб-адаптер необходимо выполнить следующую команду (powershell):
