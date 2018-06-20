@@ -18,6 +18,8 @@
 
 [Web-adapter (iis). Установка и удаление в консоли](pages/wa_iss.md)
 
+[Определение и замена источников данных в Map Document (.mxd)](pages/arcpy.mxd_replace_paths.md)
+
 ### Заметки "Вокруг разработки" 
 [Git. Старт на Windows](pages/around_it.git_start.md)
 
