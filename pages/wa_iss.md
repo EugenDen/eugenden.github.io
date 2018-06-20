@@ -47,3 +47,5 @@ get-wmiobject -class Win32_Product | Where-Object -FilterScript {$_.Name -eq "Ar
 ```
 
 ![alt-текст](../images/wa_iis/search_id_webadapter.PNG "search_id_webadapter")
+
++ доп. Приложение адаптера наследует физический путь сайта.

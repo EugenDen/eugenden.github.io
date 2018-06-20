@@ -3,13 +3,14 @@
 Чтобы получить список всех слоёв mxd-проекта с их источником данных используйте следующий код: 
 
 ```python
+import arpcy
 map_document = arcpy.mapping.MapDocument("<Any path>")
 layers = arcpy.mapping.ListLayers(map_document)
 for layer in layers:
     try:
-        print tt.name, tt.dataSource
+        print layer.name, layer.dataSource
     except Exception:
-        print tt.name, None
+        print layer.name, None
 ```
 
 Если вы открыли mxd-проект в ArcMap и используете тамошнюю консоль указывайте в качестве `MapDocument` "CURRENT".
@@ -45,6 +46,8 @@ for layer in layers:
 Замену путей можно осуществить, подав описанную структуру в следующую функцию:
 
 ```python
+# -*- coding: utf-8 -*-
+import arcpy
 def replace_workspace(mxd_dict):
     """
         Функция открывает mxd-проекты, меняет источники данных для слоёв и сохраняет новые проекты по
