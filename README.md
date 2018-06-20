@@ -23,5 +23,7 @@
 ### Заметки "Вокруг разработки" 
 [Git. Старт на Windows](pages/around_it.git_start.md)
 
+[Создание переменных, добавление в PATH, запуск/удаление служб в PowerShell](pages/around_it.ps_create_vars_service.md)
+
 ### Прочие заметки
 [Заметки по английскому языку](pages/rt.md)
