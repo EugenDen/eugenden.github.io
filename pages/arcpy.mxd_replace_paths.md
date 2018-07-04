@@ -3,7 +3,7 @@
 Чтобы получить список всех слоёв mxd-проекта с их источником данных используйте следующий код: 
 
 ```python
-import arpcy
+import arcpy
 map_document = arcpy.mapping.MapDocument("<Any path>")
 layers = arcpy.mapping.ListLayers(map_document)
 for layer in layers:

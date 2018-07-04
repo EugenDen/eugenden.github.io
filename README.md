@@ -5,6 +5,9 @@
 
 [Округление числовых значений](pages/round.md)
 
+### Заметки С++
+[Простой старт на windows](pages/cpp.start.md)
+
 ### Заметки ArcGIS
 [Использование окна "Field Calculator"](pages/arcpy.field_calculator.md)
 
