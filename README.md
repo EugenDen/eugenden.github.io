@@ -1,12 +1,18 @@
 # eugenden.github.io
 
+### Заметки C
+[Cтарт на Windows (wxDev-C++)](pages/c.start.md)
+
+
+### Заметки С++
+[Cтарт на Windows (wxDev-C++)](pages/cpp.start.md)
+
+
 ### Заметки Python
 [Итерирование в обратном порядке](pages/python.reversed.md)
 
 [Округление числовых значений](pages/round.md)
 
-### Заметки С++
-[Простой старт на windows](pages/cpp.start.md)
 
 ### Заметки ArcGIS
 [Использование окна "Field Calculator"](pages/arcpy.field_calculator.md)
@@ -23,10 +29,12 @@
 
 [Определение и замена источников данных в Map Document (.mxd)](pages/arcpy.mxd_replace_paths.md)
 
+
 ### Заметки "Вокруг разработки" 
 [Git. Старт на Windows](pages/around_it.git_start.md)
 
 [Создание переменных, добавление в PATH, запуск/удаление служб в PowerShell](pages/around_it.ps_create_vars_service.md)
+
 
 ### Прочие заметки
 [Заметки по английскому языку](pages/rt.md)
