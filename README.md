@@ -8,6 +8,14 @@
 [Cтарт на Windows (wxDev-C++)](pages/cpp.start.md)
 
 
+### Заметки ECMAScript
+[Cтарт на Windows](pages/ecmas.start.md)
+
+
+### Заметки Go
+[Cтарт на Windows](pages/go.start.md)
+
+
 ### Заметки Python
 [Итерирование в обратном порядке](pages/python.reversed.md)
 
