@@ -29,6 +29,6 @@ return 0;
 
 ![](../images//cpp.start//compile.PNG "cpp.start_3")
 
-Запустим полученный exe в командной строке.
+Запустим полученный exe в консоле.
 
 ![](../images//cpp.start//run.PNG "cpp.start_4")

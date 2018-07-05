@@ -27,6 +27,6 @@ int main (void)
 
 ![](../images//c.start//compile.PNG "c.start_3")
 
-Запустим полученный exe в командной строке.
+Запустим полученный exe в консоле.
 
 ![](../images//cpp.start//run.PNG "c.start_4")
