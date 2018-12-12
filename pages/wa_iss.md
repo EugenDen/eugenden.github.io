@@ -8,7 +8,7 @@
 Выполняем следующие команды в powershell, которые установят и настроят веб-адаптер.
 
 ```powershell
-& "C:\Users\Sbt-arcgisdeva\Documents\ArcGIS 10.4.1\WebAdaptorIIS\Setup.exe" /qb VDIRNAME=eugen111 WEBSITE_ID=1 PORT=443
+& "C:\Users\Eugenuser\Documents\ArcGIS 10.4.1\WebAdaptorIIS\Setup.exe" /qb VDIRNAME=eugen111 WEBSITE_ID=1 PORT=443
 Start-Sleep -s 180
 & "C:\Program Files (x86)\Common Files\ArcGIS\WebAdaptor\IIS\Tools\ConfigureWebAdaptor.exe" /m server /w https://localhost/eugen111/webadaptor /g https://my-ags-server:6443 /a true /u siteadmin /p 123456
 ```

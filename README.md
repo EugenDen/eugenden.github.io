@@ -37,6 +37,8 @@
 
 [Определение и замена источников данных в Map Document (.mxd)](pages/arcpy.mxd_replace_paths.md)
 
+[Начало работы с API ARCGIS Server](pages/arcpy.ags_api_start.md)
+
 
 ### Заметки "Вокруг разработки" 
 [Git. Старт на Windows](pages/around_it.git_start.md)
