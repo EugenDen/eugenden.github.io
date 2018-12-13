@@ -21,6 +21,7 @@
 
 [Округление числовых значений](pages/round.md)
 
+[Итерация по атрибуту класса](pages/python.class_attr_iter.md)
 
 ### Заметки ArcGIS
 [Использование окна "Field Calculator"](pages/arcpy.field_calculator.md)
