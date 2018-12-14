@@ -25,7 +25,7 @@ primary_server.add_descendant(second_descendant)
 ```
 
 
-В списке атрибута класса главного сервера теперь 2 дочерних сервера. Попробова сделать итерацию по этим серверам, будет получена ошибка `TypeError: iteration over non-sequence`. 
+В списке атрибута класса главного сервера теперь 2 дочерних сервера. Попробовав сделать итерацию по этим серверам, будет получена ошибка `TypeError: iteration over non-sequence`. 
 
 ```python
 for s in primary_server:

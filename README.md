@@ -38,6 +38,8 @@
 
 [Определение и замена источников данных в Map Document (.mxd)](pages/arcpy.mxd_replace_paths.md)
 
+[Calculate Field - прописать GUID](pages/arcpy.uuid.md)
+
 [Начало работы с API ARCGIS Server](pages/arcpy.ags_api_start.md)
 
 
